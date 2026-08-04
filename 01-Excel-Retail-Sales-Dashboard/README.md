@@ -12,14 +12,14 @@ This project analyzes retail sales data using Microsoft Excel. The dashboard pro
 - Slicers
 - Conditional Formatting
 - Excel Formulas
-- 
+  
 ## 📈 Key KPIs
 
 - Total Sales
 - Total Profit
 - Total Orders
 - Average Sales
-- 
+  
 ## 📊 Dashboard Features
 
 - Monthly Sales Analysis
